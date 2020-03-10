@@ -1,5 +1,3 @@
 #!/bin/bash
-
-killall ping-monitor.sh
-killall ping
-
+sudo killall ping-monitor.sh
+sudo killall ping
