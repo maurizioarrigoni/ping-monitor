@@ -1,4 +1,6 @@
 #!/bin/bash
+# chmod +x ping-monitor.sh (prima di poter eseguire lo script)
+# apt-get install moreutils (per poter eseguire il comando 'ts')
 
 ScriptPath="`dirname \"$0\"`"              # relative
 ScriptPath="`( cd \"$ScriptPath\" && pwd )`"  # absolutized and normalized
