@@ -25,6 +25,3 @@ else
   # no target_host parameter
   echo "Syntax error: $0 {target_host}"
 fi
-
-
-
